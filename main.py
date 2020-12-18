@@ -81,25 +81,3 @@ while(uygulamacalisiyor):
 
     else:
         print("Hatalı işlem numarası girildi.")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
